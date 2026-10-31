@@ -55,12 +55,10 @@ time
 ## Dashboard Preview
 
 ### Sales Performance
-
-└── profitability-budget.png
+![Sales Performance](./sales-performance.png)
 
 ### Profitability and Budget
-
-![Profitability and Budget Dashboard](images/profitability-budget.png)
+![Profitability and Budget](./profitability-budget.png)
 
 ## Project File
 
