@@ -56,7 +56,7 @@ time
 
 ### Sales Performance
 
-![Sales Performance](sales-performance.png)
+└── profitability-budget.png
 
 ### Profitability and Budget
 
