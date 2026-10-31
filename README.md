@@ -56,7 +56,7 @@ time
 
 ### Sales Performance
 
-![Sales Performance Dashboard](images/sales-performance.png)
+![Sales Performance](sales-performance.png)
 
 ### Profitability and Budget
 
