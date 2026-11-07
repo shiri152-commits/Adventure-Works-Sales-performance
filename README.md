@@ -58,7 +58,7 @@ time
 ![Sales Performance](https://github.com/shiri152-commits/Adventure-Works-Sales-performance/blob/main/sales-performance.png)
 
 ### Profitability and Budget
-![Profitability and Budget](https://github.com/shiri152-commits/Adventure-Works-Sales-performance/blob/main/%E2%94%94%E2%94%80%E2%94%80%20profitability-budget.png)
+![Profitability and Budget](https://github.com/shiri152-commits/Adventure-Works-Sales-performance/blob/main/profitability-budget.png)
 
 ## Project File
 
